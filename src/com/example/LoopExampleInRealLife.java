@@ -6,10 +6,9 @@ public class LoopExampleInRealLife {
 
         int[] marks = {50, 23, 38, 99, 20};
 
-
         boolean isFailed = false;
 
-        for(int i= 0; i < marks.length; i++) {
+        for (int i = 0; i < marks.length; i++) {
             if (marks[i] < 35) {
                 isFailed = true;
                 System.out.println("checking " + marks[i]);
@@ -17,7 +16,7 @@ public class LoopExampleInRealLife {
             }
         }
 
-        if(isFailed) {
+        if (isFailed) {
             System.out.println("Student failed");
         }
 
