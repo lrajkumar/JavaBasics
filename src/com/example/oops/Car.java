@@ -19,4 +19,8 @@ public class Car {
         return 5;
     }
 
+    void print() {
+        System.out.println("test");
+    }
+
 }
