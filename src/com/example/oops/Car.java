@@ -23,4 +23,8 @@ public class Car {
         System.out.println("test");
     }
 
+	void print1() {
+        System.out.println("test");
+    }
+
 }
