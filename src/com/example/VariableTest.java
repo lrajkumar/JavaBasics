@@ -20,10 +20,21 @@ public class VariableTest {
         System.out.println(a  - b - c);
     }
 
+     void multiple() {
+           int a==35;
+            int b=30;
+
+       System.out.println(a*b);
+}
+
+
+
+
 
     public static void main(String[] args) {
         VariableTest obj = new VariableTest();
         obj.add();
+        obj.multiple();
         obj.c = 50;
 
         VariableTest.d = 50;
