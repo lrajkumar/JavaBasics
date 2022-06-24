@@ -26,6 +26,12 @@ public class VariableTest {
 
        System.out.println(a*b);
 }
+ void division() {
+     int a=10;
+        int b=5;
+System.out.println(a/b);
+}
+
 
 
 
@@ -35,6 +41,7 @@ public class VariableTest {
         VariableTest obj = new VariableTest();
         obj.add();
         obj.multiple();
+obj.division();
         obj.c = 50;
 
         VariableTest.d = 50;
