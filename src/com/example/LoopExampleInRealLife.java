@@ -19,6 +19,7 @@ public class LoopExampleInRealLife {
         if (isFailed) {
             System.out.println("Student failed");
         }
+        System.out.println("Git Hub");
 
     }
 }
