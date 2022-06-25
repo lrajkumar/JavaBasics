@@ -47,6 +47,7 @@ obj.division();
 
 
         VariableTest.d = 50;
+      System.out.println("Numerical Number Added");
 
     }
 
