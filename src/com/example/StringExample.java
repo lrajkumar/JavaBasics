@@ -32,6 +32,7 @@ public class StringExample {
         System.out.println(note);
         System.out.println(builder.toString());
         System.out.println(buffer.toString());
+        System.out.println("Need to commit in github");
     }
 
 
