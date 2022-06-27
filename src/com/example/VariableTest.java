@@ -25,6 +25,7 @@ public class VariableTest {
             int b=30;
 
        System.out.println(a*b);
+       System.out.println("multiplied");
 }
  void division() {
      int a=10;
