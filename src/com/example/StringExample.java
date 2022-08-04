@@ -4,7 +4,7 @@ public class StringExample {
 
     public static void main(String[] args) {
 
-        String name = "Raj Kumar";
+        String name = "Revathi";
         int age = 27;
 
         String note = "Once upon a time, there lived a king. His name was '" + name + "' and he aged " + age + " years";
