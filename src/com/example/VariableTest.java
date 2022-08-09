@@ -21,10 +21,11 @@ public class VariableTest {
     }
 
      void multiple() {
-           int a==35;
+           int a=35;
             int b=30;
 
        System.out.println(a*b);
+       System.out.println(a);
        System.out.println("multiplied");
 }
  void division() {
